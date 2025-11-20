@@ -14,7 +14,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-
 ## Overview
 
 ### The challenge
@@ -30,22 +29,20 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/ivan-develops/nft-preview-card-component-main/](https://github.com/ivan-develops/nft-preview-card-component-main/)
+- Live Site URL: [https://ivan-develops.github.io/nft-preview-card-component-main/](https://ivan-develops.github.io/nft-preview-card-component-main/)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+After several exercises in Frontend Mentor, I am learning to manage containers and their styles.
 
 ### Useful resources
 
